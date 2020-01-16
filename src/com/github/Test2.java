@@ -1,7 +1,7 @@
 package com.github;
 
-public class Test1 {
-	public static void main(String[] args) {
+public class Test2 {
+public static void main(String[] args) {
 		
 		String hungry="yes";
 		if(hungry=="yes"|| hungry=="n" || hungry=="y") {
